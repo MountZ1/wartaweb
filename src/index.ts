@@ -14,4 +14,5 @@ main.route('/', app)
 main.route('/', client)
 // every route started with /auth are working in admin panel
 
+main.fire()
 export default main

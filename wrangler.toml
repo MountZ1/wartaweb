@@ -1,0 +1,9 @@
+name = "honopress"
+main = "src/index.ts"
+compatibility_date = "2023-11-21"
+
+[site]
+bucket = "./public"
+
+[build]
+command = "npm run build:css && npm run build"

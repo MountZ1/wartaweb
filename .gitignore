@@ -1,0 +1,5 @@
+# deps
+node_modules/
+note.txt
+.env
+.git/*
